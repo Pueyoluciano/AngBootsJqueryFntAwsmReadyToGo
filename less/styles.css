@@ -1,0 +1,7 @@
+#MainContainer {
+  border: 1px solid black;
+  border-radius: 35px;
+  margin: 0 auto;
+  height: 600px;
+  width: 500px;
+}
